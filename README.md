@@ -1,2 +1,2 @@
 # Calculator_html_css_js
-# javaScript basic project 05
+# javaScript basic project
